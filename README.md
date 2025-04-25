@@ -24,16 +24,15 @@ A comprehensive **Employee Management System** designed to streamline employee m
 
 - **Frontend**: 
   - React.js
-  - React-Bootstrap
+  
   
 - **Backend**: 
   - Spring Boot
   
 - **Database**: 
-  - MongoDB
+  - MySQL
   
-- **Authentication**: 
-  - JWT (JSON Web Token)
+- **Authentication**:
   
 - **Version Control**: 
   - Git
